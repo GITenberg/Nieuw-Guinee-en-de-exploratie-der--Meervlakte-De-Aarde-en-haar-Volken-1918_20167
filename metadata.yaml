@@ -1,0 +1,30 @@
+_repo: Nieuw-Guinee-en-de-exploratie-der--Meervlakte-De-Aarde-en-haar-Volken-1918_20167
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Langeler, J. W.
+    gutenberg_agent_id: '9119'
+    url: http://www.gutenberg.org/2009/agents/9119
+  - agent_name: Doorman, L. A. C. M.
+    gutenberg_agent_id: '9120'
+    url: http://www.gutenberg.org/2009/agents/9120
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2006-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20167'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Papua (Indonesia) -- Discovery and exploration'
+- !lcc 'DU'
+title: 'Nieuw-Guinee en de exploratie der "Meervlakte"
+
+  De Aarde en haar Volken, 1918'
+url: http://www.gutenberg.org/ebooks/20167
